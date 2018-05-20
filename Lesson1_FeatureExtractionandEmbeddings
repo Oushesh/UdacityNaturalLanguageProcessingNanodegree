@@ -1,0 +1,7 @@
+1.GloVe
+2.Word2Vec
+3.Latent Dirichlet Distribution
+4.t-SNE -> t-Distributed Stochastic Neighbour Embedding -> high dimensional to low dimensional feature space -> similar to Principal Component Analysis(PCA) but preserves the inner structure of the embeddings
+
+
+5. LDA -> Latent Dirichlet Allocation
