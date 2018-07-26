@@ -1,6 +1,6 @@
 #Oushesh Haradhun
 
-1. Investigate the LibriSpeech dataset
+We will work with the LibriSpeech dataset. For more powerful datasets check: http://www.openslr.org/12/
 
 Steps>Convert raw audio data to feature representations > Map Audio features to transcribed text
 
